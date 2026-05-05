@@ -1,0 +1,25 @@
+
+ 1. Definition
+A chatbot is a computer program designed to simulate conversation with users. A rule-based chatbot responds to user inputs using predefined rules and conditions.
+ 2. Goal of the Task
+To build a simple chatbot that can respond to basic user inputs like "hello", "how are you", and "bye".
+ 3. Key Concepts Used
+a) Input/Output: Used to interact with the user by taking input and displaying responses.
+b) Conditional Statements (if-elif-else): Used to check user input and provide appropriate replies.
+c) Functions: Help organize the code and make it reusable.
+d) Loops (while loop): Used to keep the chatbot running continuously until the user exits.
+4. Working of Chatbot
+The chatbot starts by greeting the user. It takes input from the user and converts it to lowercase for easy comparison. It then checks the input using conditional statements and returns a predefined response. The process repeats until the user types "bye", which stops the chatbot.
+ 5. Example Rules
+hello → Hi!
+how are you → I'm fine, thanks!
+bye → Goodbye!
+others → Sorry, I don't understand
+6. Advantages
+Easy to build and understand. Provides quick responses. Does not require complex algorithms.
+ 7. Limitations
+Can only respond to predefined inputs. Cannot understand complex sentences. Does not have learning capability.
+ 8. Applications
+Used in customer support for basic queries, FAQ systems, and beginner-level learning projects.
+ 9. Conclusion
+A basic rule-based chatbot is a simple program that uses conditions and loops to simulate conversation and helps in understanding fundamental programming concepts.
